@@ -1282,12 +1282,6 @@ else:
     at least one part is true
 
 
-
-```python
-import numpy
-```
-
-
 ```python
 import numpy
 ```
